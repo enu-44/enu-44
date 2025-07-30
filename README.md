@@ -5,6 +5,7 @@ Mi nombre es Enuar y soy desarrollador Full Stack. Tengo alrededor de 6 años de
 Desde el desarrollo de interfaces de usuario dinámicas y eficientes hasta la implementación de APIs sólidas. He liderado proyectos en un entorno monolítico y en microservicios, trabajando en equipos equipos multifuncionales en metodología ágil como SCRUM para hacer frente a los plazos y asegurar la calidad del entregable. 
 
 Mis habilidades fundamentales se basan en la aplicación de las mejores prácticas de desarrollo de software, como los principios SOLID, Clean Architecture y el uso de algunos patrones avanzados como CQRS y event-driven architecture, que hacen que las soluciones sean mas modulares, mantenibles y escalables. Los proyectos en los que tuve la oportunidad de trabajar van desde las plataformas de comercio electrónico, aplicaciones ERP hasta las aplicaciones móviles hechas en el flutter que han permitido mejorar la experiencia del usuario final. 
+
 ---
 
 ## 🧠 Habilidades Técnicas
