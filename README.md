@@ -46,8 +46,8 @@ Mis habilidades fundamentales se basan en la aplicación de las mejores práctic
 ## 📫 Cómo contactarme
 
 - 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573118932491)
-- ✉️ [enu.developer@gmail.com]
-- 💼 [[(https://www.linkedin.com/in/enuar-mu%C3%B1oz-a152a563/)]](https://www.linkedin.com/in/enuar-mu%C3%B1oz-a152a563/)
+- ✉️ [enu.developer@gmail.com](enu.developer@gmail.com)
+- 💼 [https://www.linkedin.com/in/enuar-mu%C3%B1oz-a152a563/](https://www.linkedin.com/in/enuar-mu%C3%B1oz-a152a563/)
 - 🌐 GitHub: https://github.com/enu-44
 
 ---
